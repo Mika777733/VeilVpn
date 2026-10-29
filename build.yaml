@@ -1,6 +1,6 @@
 # Сборка APK на серверах GitHub. Запускается при каждом изменении в ветке main
 # или вручную: вкладка Actions → Build Veil APK → Run workflow.
-name: Build Veil APK
+name:veil / .github / workflows / build.yml
 
 on:
   push:
